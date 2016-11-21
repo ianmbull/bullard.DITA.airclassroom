@@ -1,0 +1,1 @@
+var helpContexts = [{"appname":"", "appid":"introduction", "path":"concept/c-introduction.html"},{"appname":"", "appid":"task_dyt_mtd_1y", "path":"tasks/t-installing-software.html"},{"appname":"", "appid":"task_jws_cq2_zx", "path":"tasks/t-using-projector.html"},{"appname":"", "appid":"topic_ajm_2ld_1y", "path":"concept/c-troubleshooting.html"}]
