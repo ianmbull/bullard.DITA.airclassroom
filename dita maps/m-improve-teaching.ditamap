@@ -3,4 +3,7 @@
 <map>
  <title/>
  <topicref href="../concept/c-introduction.dita"/>
+ <topicref href="../concept/c-improve-teaching.dita"/>
+ <topicref href="../tasks/t-document-scanner.dita"/>
+ <topicref href="../tasks/t-emergency.dita"/>
 </map>

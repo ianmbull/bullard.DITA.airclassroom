@@ -2,14 +2,30 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ojx_yyd_1y">
     <title>How to Use the Document Scanner</title>
-    <shortdesc/>
+    <shortdesc>The document scanner can be used to display paper documents on the projector for
+        everyone in the classroom to see. This is very helpful when you need to show the entire
+        group something that is in paper format. </shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>Below are the steps for using the document scanner in the classroom. <p/></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Power on the document scanner by pressing the power button.</cmd>
+            </step>
+            <step>
+                <cmd>Click the document scanner application on the computer desktop. A new window
+                    will open up with an application that allows you to interface with document
+                    scanner. This program allows to adjust how the image looks like on the screen,
+                    which will also be displayed on the projector. </cmd>
+            </step>
+            <step>
+                <cmd>Press the projector screen switch down to drop the projector screen</cmd>
+            </step>
+            <step>
+                <cmd>Grab the remote for the projector.</cmd>
+            </step>
+            <step>
+                <cmd>Press the power button on the remote and wait for the projector to turn on.
+                </cmd>
             </step>
         </steps>
     </taskbody>
