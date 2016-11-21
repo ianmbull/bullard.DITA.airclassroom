@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_uyd_s3d_1y">
+    <title>Accessing the Adobe Creative Suite (Mac OSX)</title>
+    <shortdesc>Adobe makes a lot of software to help creatives (artist, filmakers, etc) create
+        beautiful things. Adobe makes software for video editing, document desgin, photo editing,
+        storyboarding. These are not only beneficial for design oreiented groups, but also for
+        businesses that would like to make chagnes to designs.  </shortdesc>
+    <taskbody>
+        <context>The following states how to access these Adobe applications on Mac
+            OSX.<p/></context>
+        <steps>
+            <step>
+                <cmd>Go to the applications folder found on the dock on the Mac and click it. A list
+                    of items found in the folder come up.</cmd>
+            </step>
+            <step>
+                <cmd>Scroll through the list. The list is in alphabetical order.</cmd>
+            </step>
+            <step>
+                <cmd>Find the Adobe Creative Suite prgrams.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the programs that you need to use for your organization. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

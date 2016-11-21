@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_jws_cq2_zx">
+    <title>How to Use Ceiling Mounted Projector</title>
+    <shortdesc>Using a projector can allow you to easily show other people how to use a program by
+        allowing them to see everything that you see. The projector can also be used to display a
+        visual aid for a presentation aiding in the effectiveness of your speech. The projector has
+        many uses. All of the connections to the projector, such as the power cable, display cables,
+        and other connection cables will already be made, so no need to worry about
+        them.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Find a black switch to the right of the door when you walk in</cmd>
+            </step>
+            <step>
+                <cmd>Press in the direction that you want the projector screen to go. Up is marked
+                    with a sticker saying up and down is marked with a sticker saying down. </cmd>
+            </step>
+            <step>
+                <cmd>Find the projector remote and point it towards the projector.</cmd>
+            </step>
+            <step>
+                <cmd>Press the power button on the remote.</cmd>
+            </step>
+            <step>
+                <cmd>A red light should turn blue on the projector denoting that it has powered
+                    on.</cmd>
+            </step>
+            <step>
+                <cmd>The projector light will slowly brighten until it reaches full brightness and
+                    will mirror the same screen as the computer on the desk across from the entrance
+                    door.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
