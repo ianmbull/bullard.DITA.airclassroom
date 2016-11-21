@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_dyt_mtd_1y">
+    <title>Installing Software on Computers</title>
+    <shortdesc>In the event that you need to install software to test how it works on a variety of
+        different machines or you plan to teach a class explaining how to use the software you are
+        installing this information is important for you. This explains how to install software on
+        the computers found in Shanks Hall rooms 180 and 360.</shortdesc>
+    <taskbody>
+        <context>Below are the tasks for installing software on the computers. <p/></context>
+        <steps>
+            <step>
+                <cmd>Insert the media drive (USB drive or disc) that contains the data for the
+                    software.</cmd>
+            </step>
+            <step>
+                <cmd>A window will automatically pop up linked to the media drive that you
+                    inserted.</cmd>
+            </step>
+            <step>
+                <cmd>Open the program files located on the media drive.</cmd>
+            </step>
+            <step>
+                <cmd>Double click on the file with the extension ."exe".</cmd>
+            </step>
+            <step>
+                <cmd>The program will then start installing on the computer,</cmd>
+            </step>
+            <step>
+                <cmd>After it finishes installing repeat this step for each computer in the computer
+                    lab until all of the computers you plan to use have the software installed.
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

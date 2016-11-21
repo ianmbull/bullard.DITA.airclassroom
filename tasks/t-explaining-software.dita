@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_oqz_qvd_1y">
+    <title>Using Projector to explain software</title>
+    <shortdesc>It is very difficult to explain how to use a piece of software to others when they
+        can't see what you are doing step by step. That is why the projector was created, so that
+        multiple people can see the contents of one computer at the same time. </shortdesc>
+    <taskbody>
+        <context>Below are the steps for using a projector to explain how to use
+            software.<p/></context>
+        <steps>
+            <step>
+                <cmd>Open up the software that you plan to explain on the computer at the desk
+                    across from the entrance door..</cmd>
+            </step>
+            <step>
+                <cmd>Drop down the white screen for the projector.</cmd>
+            </step>
+            <step>
+                <cmd>Turn on the projector.</cmd>
+            </step>
+            <step>
+                <cmd>The software should now be displayed on the projector screen. </cmd>
+            </step>
+            <step>
+                <cmd>The remote for the projector has a laser light that you can use when you want
+                    to point out specific things on the screen. </cmd>
+            </step>
+            <step>
+                <cmd>You can teach others step by step how to use the program with everthing
+                    displayed on the projector. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
