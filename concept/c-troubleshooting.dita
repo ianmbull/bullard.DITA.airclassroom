@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ajm_2ld_1y">
+  <title>Troubleshooting the Computer Lab</title>
+  <body>
+    <p><b>Problem</b>: The computers in the classroom will not power on.</p>
+    <p><b>Solution</b>: Check to make sure that all surge protectors are plugged into the power
+      outlets. </p>
+    <p/>
+    <p><b>Problem</b>: The projector will not power on.</p>
+    <p><b>Solution</b>: It's possible that the batteries in the remote for the projector have died.
+      Replace the batteries then try again. </p>
+  </body>
+</topic>

@@ -9,7 +9,24 @@
         <context>Below are the steps to follow incase of an emergency<p/></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Exit the classroom.</cmd>
+            </step>
+            <step>
+                <cmd>If you are on the third floor in room 360 find the nearest stairwell right
+                    outside the door and slowly walk down to the first floor then exit the building
+                    through the front building entrance.  </cmd>
+            </step>
+            <step>
+                <cmd>If you are on the first floor, exit the classroom and take a left, then walk
+                    towards the front building entrance.</cmd>
+            </step>
+            <step>
+                <cmd>Once outside the building walk at least 30 feet from the building to allow
+                    safety personal an unobstructed path into the building.</cmd>
+            </step>
+            <step>
+                <cmd>When the emergency is cleared and you are allowed back into the building slowly
+                    walk back to the classroom.</cmd>
             </step>
         </steps>
     </taskbody>
