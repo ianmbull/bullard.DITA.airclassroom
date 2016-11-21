@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Improving Teaching</title>
+ <topicref href="concept/c-introduction.dita"/>
+ <topicref href="concept/c-improve-teaching.dita"/>
+ <topicref href="tasks/t-document-scanner.dita"/>
+ <topicref href="tasks/t-emergency.dita"/>
+ <topicref href="concept/c-troubleshooting.dita"/>
+</map>
