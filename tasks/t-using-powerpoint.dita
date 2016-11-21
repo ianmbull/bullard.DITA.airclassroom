@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xpp_rqd_1y">
+    <title>Using PowerPoint with Computers</title>
+    <shortdesc>PowerPoint is a simple program that adds a lot of value to presentations and
+        speeches. Using this program successfully can be the difference between a powerful and
+        exciting speech, or a lackluster and boring speech. </shortdesc>
+    <taskbody>
+        <context>Below are the steps for creating a simple PowerPoint presentation. <p/></context>
+        <steps>
+            <step>
+                <cmd>Open PowerPoint on the computer.</cmd>
+            </step>
+            <step>
+                <cmd>Add slides to the presentation.</cmd>
+            </step>
+            <step>
+                <cmd>Add your information to the slides and structure it the way you plan to give
+                    your speech or presentation.</cmd>
+            </step>
+            <step>
+                <cmd>If you would like to make the presentation more exciting, add slide transition
+                    effects and animations. Include pictures to give the slides more value.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
