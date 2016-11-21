@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="introduction" path="concept/c-introduction.html"/>
+   <appContext helpID="overview-of-computers"
+               path="concept/c-overview-of-computers.html"/>
+   <appContext helpID="task_jws_cq2_zx" path="tasks/t-using-projector.html"/>
+   <appContext helpID="task_uyd_s3d_1y" path="tasks/t-adobe-creative.html"/>
+   <appContext helpID="task_nvf_hh2_1y" path="tasks/t-emergency.html"/>
+   <appContext helpID="topic_ajm_2ld_1y" path="concept/c-troubleshooting.html"/>
+</map>
